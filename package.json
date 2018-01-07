@@ -1,0 +1,38 @@
+{
+	"name": "oebb-hafas",
+	"description": "JavaScript client for the OEBB HAFAS API.",
+	"version": "0.0.0",
+	"keywords": [
+		"oebb",
+		"austria",
+		"austrian",
+		"railway",
+		"public transport",
+		"api",
+		"open data",
+		"hafas",
+		"http"
+	],
+	"author": "Julius Tens <mail@juliustens.eu>",
+	"homepage": "https://github.com/juliuste/oebb-hafas",
+	"repository": "juliuste/oebb-hafas",
+	"bugs": "https://github.com/juliuste/oebb-hafas/issues",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"dependencies": {
+		"hafas-client": "github:derhuerst/hafas-client"
+	},
+	"devDependencies": {
+		"tape": "^4.7.0"
+	},
+	"scripts": {
+		"test": "node example.js >/dev/null",
+		"prepare": "npm test"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"license": "ISC"
+}
