@@ -164,6 +164,7 @@ The output will be a [`journey` object in the *Friendly Public Transport Format*
 
 ## Similar Projects
 
+- - [*Friendly Public Transport Format*](https://github.com/public-transport/friendly-public-transport-format#friendly-public-transport-format-fptf) – A format for APIs, libraries and datasets containing and working with public transport data.
 - [oebb](https://github.com/juliuste/oebb) – Find ticket prices for ÖBB journeys.
 - [db-hafas](https://github.com/derhuerst/db-hafas) – Client for the German Railways (DB).
 - [vbb-hafas](https://github.com/derhuerst/vbb-hafas) – Client for the Berlin & Brandenburg public transport service (VBB).
