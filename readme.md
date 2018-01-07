@@ -4,10 +4,10 @@
 
 This project is actually a thin wrapper around [`hafas-client`](https://github.com/derhuerst/hafas-client#hafas-client). [Its docs](https://github.com/derhuerst/hafas-client/tree/master/docs) document the API in general.
 
-[![npm version](https://img.shields.io/npm/v/boilerplate.svg)](https://www.npmjs.com/package/boilerplate)
-[![dependency status](https://img.shields.io/david/juliuste/boilerplate.svg)](https://david-dm.org/juliuste/boilerplate)
-[![dev dependency status](https://img.shields.io/david/dev/juliuste/boilerplate.svg)](https://david-dm.org/juliuste/boilerplate#info=devDependencies)
-[![license](https://img.shields.io/github/license/juliuste/boilerplate.svg?style=flat)](LICENSE)
+[![npm version](https://img.shields.io/npm/v/oebb-hafas.svg)](https://www.npmjs.com/package/oebb-hafas)
+[![dependency status](https://img.shields.io/david/juliuste/oebb-hafas.svg)](https://david-dm.org/juliuste/oebb-hafas)
+[![dev dependency status](https://img.shields.io/david/dev/juliuste/oebb-hafas.svg)](https://david-dm.org/juliuste/oebb-hafas#info=devDependencies)
+[![license](https://img.shields.io/github/license/juliuste/oebb-hafas.svg?style=flat)](LICENSE)
 [![chat on gitter](https://badges.gitter.im/juliuste.svg)](https://gitter.im/juliuste)
 
 ## Installing
