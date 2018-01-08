@@ -1,6 +1,6 @@
 {
 	"name": "oebb-hafas",
-	"description": "JavaScript client for the OEBB HAFAS API.",
+	"description": "JavaScript client for the ÖBB HAFAS API.",
 	"version": "0.0.0",
 	"keywords": [
 		"oebb",
