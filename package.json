@@ -1,7 +1,7 @@
 {
 	"name": "oebb-hafas",
 	"description": "JavaScript client for the ÖBB HAFAS API.",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"keywords": [
 		"oebb",
 		"austria",
@@ -22,11 +22,9 @@
 		"index.js"
 	],
 	"dependencies": {
-		"hafas-client": "^2.1.0"
+		"hafas-client": "^2.4.2"
 	},
-	"devDependencies": {
-		"tape": "^4.7.0"
-	},
+	"devDependencies": {},
 	"scripts": {
 		"test": "node example.js >/dev/null",
 		"prepare": "npm test"
