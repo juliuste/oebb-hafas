@@ -22,9 +22,8 @@
 		"index.js"
 	],
 	"dependencies": {
-		"hafas-client": "^2.4.2"
+		"hafas-client": "^5.7.0"
 	},
-	"devDependencies": {},
 	"scripts": {
 		"test": "node example.js >/dev/null",
 		"prepare": "npm test"

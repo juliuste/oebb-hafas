@@ -24,7 +24,7 @@ Check [the docs for `hafas-client`](https://github.com/derhuerst/hafas-client/tr
 ## Getting Started
 
 ```javascript
-const hafas = require('oebb-hafas')
+const hafas = require('oebb-hafas')('your-user-agent')
 ```
 
 As an example, we will search for a route from *Wien Westbahnhof* to *Salzburg Hbf*. To get the station ids, use [`locations(query, [opt])`](https://github.com/derhuerst/hafas-client/blob/master/docs/locations.md).
