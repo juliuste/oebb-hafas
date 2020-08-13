@@ -1,7 +1,7 @@
 {
 	"name": "oebb-hafas",
-	"description": "JavaScript client for the ÖBB HAFAS API.",
 	"version": "1.0.0",
+	"description": "JavaScript client for the ÖBB HAFAS API.",
 	"keywords": [
 		"oebb",
 		"austria",
@@ -13,23 +13,23 @@
 		"hafas",
 		"http"
 	],
-	"author": "Julius Tens <mail@juliustens.eu>",
 	"homepage": "https://github.com/juliuste/oebb-hafas",
-	"repository": "juliuste/oebb-hafas",
 	"bugs": "https://github.com/juliuste/oebb-hafas/issues",
+	"repository": "juliuste/oebb-hafas",
+	"license": "ISC",
+	"author": "Julius Tens <mail@juliustens.eu>",
 	"main": "index.js",
 	"files": [
 		"index.js"
 	],
+	"scripts": {
+		"prepare": "npm test",
+		"test": "node example.js >/dev/null"
+	},
 	"dependencies": {
 		"hafas-client": "^5.7.0"
 	},
-	"scripts": {
-		"test": "node example.js >/dev/null",
-		"prepare": "npm test"
-	},
 	"engines": {
-		"node": ">=6"
-	},
-	"license": "ISC"
+		"node": ">=10"
+	}
 }
