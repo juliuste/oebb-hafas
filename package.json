@@ -1,6 +1,6 @@
 {
 	"name": "oebb-hafas",
-	"version": "1.0.0",
+	"version": "5.0.0",
 	"description": "JavaScript client for the ÖBB HAFAS API.",
 	"keywords": [
 		"oebb",
@@ -8,10 +8,8 @@
 		"austrian",
 		"railway",
 		"public transport",
-		"api",
-		"open data",
-		"hafas",
-		"http"
+		"bahn",
+		"hafas"
 	],
 	"homepage": "https://github.com/juliuste/oebb-hafas",
 	"bugs": "https://github.com/juliuste/oebb-hafas/issues",
